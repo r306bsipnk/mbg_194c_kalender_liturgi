@@ -1,16 +1,10 @@
-# kalender_liturgi
+#  Kalender Liturgi pnk
 
-A new Flutter project.
+Aplikasi kalender kegiatan keagamaan Khatolik
 
-## Getting Started
+## Nama Project :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. 19221290/Penantius/ 
+2. 19221299/Fransiskus Wandi Eko/ 
+3. 19221185/Januria jayanti bungen/ 
+4. 19221151/Yulianti Susmitha/ 
